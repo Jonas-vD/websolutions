@@ -1,10 +1,10 @@
 {
-  "name": "project Acme web solutions",
+  "name": "Acme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "surge . jonasvandoorn.surge.sh",
+    "deploy": "surge . websolutions.surge.sh",
     "start": "live-server"
   },
   "keywords": [],
